@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Doan.WebApiRestful.Data\Doan.WebApiRestful.Data.csproj" />
+    <ProjectReference Include="..\Doan.WebApiRestful.Domain\Doan.WebApiRestful.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

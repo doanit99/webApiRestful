@@ -1,0 +1,17 @@
+C:\Users\DoanIT\Doan.WebApiRestful\Doan.WebApiRestful.Service\bin\Debug\net7.0\Doan.WebApiRestful.Service.deps.json
+C:\Users\DoanIT\Doan.WebApiRestful\Doan.WebApiRestful.Service\bin\Debug\net7.0\Doan.WebApiRestful.Service.dll
+C:\Users\DoanIT\Doan.WebApiRestful\Doan.WebApiRestful.Service\bin\Debug\net7.0\Doan.WebApiRestful.Service.pdb
+C:\Users\DoanIT\Doan.WebApiRestful\Doan.WebApiRestful.Service\obj\Debug\net7.0\Doan.WebApiRestful.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DoanIT\Doan.WebApiRestful\Doan.WebApiRestful.Service\obj\Debug\net7.0\Doan.WebApiRestful.Service.AssemblyInfoInputs.cache
+C:\Users\DoanIT\Doan.WebApiRestful\Doan.WebApiRestful.Service\obj\Debug\net7.0\Doan.WebApiRestful.Service.AssemblyInfo.cs
+C:\Users\DoanIT\Doan.WebApiRestful\Doan.WebApiRestful.Service\obj\Debug\net7.0\Doan.WebApiRestful.Service.csproj.CoreCompileInputs.cache
+C:\Users\DoanIT\Doan.WebApiRestful\Doan.WebApiRestful.Service\obj\Debug\net7.0\Doan.WebApiRestful.Service.dll
+C:\Users\DoanIT\Doan.WebApiRestful\Doan.WebApiRestful.Service\obj\Debug\net7.0\refint\Doan.WebApiRestful.Service.dll
+C:\Users\DoanIT\Doan.WebApiRestful\Doan.WebApiRestful.Service\obj\Debug\net7.0\Doan.WebApiRestful.Service.pdb
+C:\Users\DoanIT\Doan.WebApiRestful\Doan.WebApiRestful.Service\obj\Debug\net7.0\ref\Doan.WebApiRestful.Service.dll
+C:\Users\DoanIT\Doan.WebApiRestful\Doan.WebApiRestful.Service\bin\Debug\net7.0\Doan.WebApiRestful.Data.dll
+C:\Users\DoanIT\Doan.WebApiRestful\Doan.WebApiRestful.Service\bin\Debug\net7.0\Doan.WebApiRestful.Domain.dll
+C:\Users\DoanIT\Doan.WebApiRestful\Doan.WebApiRestful.Service\bin\Debug\net7.0\Doan.WebApiRestful.Data.pdb
+C:\Users\DoanIT\Doan.WebApiRestful\Doan.WebApiRestful.Service\bin\Debug\net7.0\Doan.WebApiRestful.Domain.pdb
+C:\Users\DoanIT\Doan.WebApiRestful\Doan.WebApiRestful.Service\obj\Debug\net7.0\Doan.WebApiRestful.Service.csproj.AssemblyReference.cache
+C:\Users\DoanIT\Doan.WebApiRestful\Doan.WebApiRestful.Service\obj\Debug\net7.0\Doan.WebApiRestful.Service.csproj.CopyComplete

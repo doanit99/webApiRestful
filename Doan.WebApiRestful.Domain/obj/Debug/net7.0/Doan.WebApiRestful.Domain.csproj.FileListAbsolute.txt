@@ -1,0 +1,11 @@
+C:\Users\DoanIT\Doan.WebApiRestful\Doan.WebApiRestful.Domain\bin\Debug\net7.0\Doan.WebApiRestful.Domain.deps.json
+C:\Users\DoanIT\Doan.WebApiRestful\Doan.WebApiRestful.Domain\bin\Debug\net7.0\Doan.WebApiRestful.Domain.dll
+C:\Users\DoanIT\Doan.WebApiRestful\Doan.WebApiRestful.Domain\bin\Debug\net7.0\Doan.WebApiRestful.Domain.pdb
+C:\Users\DoanIT\Doan.WebApiRestful\Doan.WebApiRestful.Domain\obj\Debug\net7.0\Doan.WebApiRestful.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DoanIT\Doan.WebApiRestful\Doan.WebApiRestful.Domain\obj\Debug\net7.0\Doan.WebApiRestful.Domain.AssemblyInfoInputs.cache
+C:\Users\DoanIT\Doan.WebApiRestful\Doan.WebApiRestful.Domain\obj\Debug\net7.0\Doan.WebApiRestful.Domain.AssemblyInfo.cs
+C:\Users\DoanIT\Doan.WebApiRestful\Doan.WebApiRestful.Domain\obj\Debug\net7.0\Doan.WebApiRestful.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DoanIT\Doan.WebApiRestful\Doan.WebApiRestful.Domain\obj\Debug\net7.0\Doan.WebApiRestful.Domain.dll
+C:\Users\DoanIT\Doan.WebApiRestful\Doan.WebApiRestful.Domain\obj\Debug\net7.0\refint\Doan.WebApiRestful.Domain.dll
+C:\Users\DoanIT\Doan.WebApiRestful\Doan.WebApiRestful.Domain\obj\Debug\net7.0\Doan.WebApiRestful.Domain.pdb
+C:\Users\DoanIT\Doan.WebApiRestful\Doan.WebApiRestful.Domain\obj\Debug\net7.0\ref\Doan.WebApiRestful.Domain.dll
